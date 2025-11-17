@@ -6,6 +6,10 @@
 - **Gabriel Torres Luiz** — RM98600  
 - **Otávio Vitoriano Da Silva** — RM552012  
 
+## ▶️ LInk do Vídeo Explicativo
+
+https://youtu.be/yFmSHixodMo
+
 ## 🧠 Visão Geral
 
 O **Zeniata** é um sistema IoT desenvolvido para monitorar quanto tempo uma pessoa permanece sentada, seu nível ergonômico e enviar alertas automáticos quando o limite saudável é ultrapassado.
