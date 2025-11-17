@@ -8,7 +8,7 @@
 
 ## ▶️ LInk do Vídeo Explicativo
 
-https://youtu.be/yFmSHixodMo
+https://youtu.be/3Y8kAoQpcgA
 
 ## 🧠 Visão Geral
 
