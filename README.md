@@ -1,4 +1,4 @@
-# 📘 Projeto Zeniata – Sistema Inteligente de Monitoramento de Permanência na Cadeira
+# 📘 Projeto Zeniata WorkHealth
 
 ## 👥 Integrantes
 
@@ -8,7 +8,7 @@
 
 ## 🧠 Visão Geral
 
-O **Zeniata** é um sistema IoT desenvolvido para monitorar quanto tempo uma pessoa permanece sentada e enviar alertas automáticos quando o limite saudável é ultrapassado.
+O **Zeniata** é um sistema IoT desenvolvido para monitorar quanto tempo uma pessoa permanece sentada, seu nível ergonômico e enviar alertas automáticos quando o limite saudável é ultrapassado.
 Ele combina **sensor de pressão, microcontrolador, MQTT e Node-RED** para gerar alertas por e-mail ou outras plataformas.
 
 O objetivo é promover bem-estar, reduzir sedentarismo e incentivar pausas regulares, alinhado ao contexto do **futuro do trabalho**.
